@@ -1,0 +1,1479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02e6011e-0732-41a0-8152-714c940639a1" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/RPC_Practice_Transport/target/" />
+    <ignored path="$PROJECT_DIR$/RPC_Practice_Proto/target/" />
+    <ignored path="$PROJECT_DIR$/RPC_Practice_Codec/target/" />
+    <ignored path="$PROJECT_DIR$/RPC_Practice_Client/target/" />
+    <ignored path="$PROJECT_DIR$/RPC_Prectice_Common/target/" />
+    <ignored path="$PROJECT_DIR$/RPC_Practice_Server/target/" />
+    <ignored path="$PROJECT_DIR$/RPC_Practice_Common/target/" />
+    <ignored path="$PROJECT_DIR$/RPC_Pratice_example/target/" />
+    <ignored path="$PROJECT_DIR$/RPC_Practice_example/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RPC_Practice_Client/src/main/java/pers/bleibtreu/rpc/client/RpcClientConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="681">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RPC_Practice_Client/src/main/java/pers/bleibtreu/rpc/client/RandomTransportSelector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-120">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#530#531#0" expanded="true" />
+                <element signature="e#578#579#0" expanded="true" />
+                <element signature="e#1285#1286#0" expanded="true" />
+                <element signature="e#1320#1321#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RPC_Practice_Client/src/main/java/pers/bleibtreu/rpc/client/TransportSelector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RPC_Practice_Client/src/main/java/pers/bleibtreu/rpc/client/RpcClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="27" column="72" lean-forward="true" selection-start-line="27" selection-start-column="72" selection-end-line="27" selection-end-column="72" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+                <element signature="e#486#487#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RPC_Practice_Common/src/main/java/pers/bleibtreu/rpc/common/ReflectionUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RPC_Practice_example/src/main/java/pers/bleibtreu/rpc/example/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RPC_Practice_Transport/src/main/java/pers/bleibtreu/rpc/HTTPTransportClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RPC_Practice_Transport/src/main/java/pers/bleibtreu/rpc/TransportClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RPC_Practice_Transport/src/main/java/pers/bleibtreu/rpc/HTTPTransportServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="40" selection-start-line="40" selection-end-line="57" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.2.28.v20190418/jetty-server-9.2.28.v20190418.jar!/org/eclipse/jetty/server/Server.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="65" column="11" selection-start-line="65" selection-start-column="11" selection-end-line="65" selection-end-column="11" />
+              <folding>
+                <element signature="e#2545#2546#0" expanded="true" />
+                <element signature="e#2583#2584#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/RPC_Practice_Proto/src/main/java/pers/bleibtreu/rpc/Peer.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Proto/src/main/java/pers/bleibtreu/rpc/Response.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Common/src/test/java/pers/bleibtreu/rpc/common/TestClass.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Common/src/main/java/pers/bleibtreu/rpc/common/ReflectionUtils.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Common/src/test/java/pers/bleibtreu/rpc/common/ReflectionUtilsTest.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Codec/src/main/java/pers/bleibtreu/rpc/codec/Decoder.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Codec/src/main/java/pers/bleibtreu/rpc/codec/Encoder.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Codec/pom.xml" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Codec/src/main/java/pers/bleibtreu/rpc/codec/JSONEncoder.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Codec/src/main/java/pers/bleibtreu/rpc/codec/JSONDecoder.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Codec/src/test/java/pers/bleibtreu/rpc/codec/TestBean.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Codec/src/test/java/pers/bleibtreu/rpc/codec/JSONEncoderTest.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Codec/src/test/java/pers/bleibtreu/rpc/codec/JSONDecoderTest.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Transport/pom.xml" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Transport/src/main/java/pers/bleibtreu/rpc/TransportClient.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Transport/src/main/java/pers/bleibtreu/rpc/RequestHandle.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Transport/src/main/java/pers/bleibtreu/rpc/TransportServer.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Transport/src/main/java/pers/bleibtreu/rpc/HTTPTransportClient.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Server/pom.xml" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Server/src/main/java/pers/bleibtreu/rpc/server/ServiceInstance.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Server/src/main/java/pers/bleibtreu/rpc/server/ServiceManager.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Server/src/test/java/pers/bleibtreu/rpc/server/TestInterface.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Server/src/test/java/pers/bleibtreu/rpc/server/TestClass.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Server/src/test/java/pers/bleibtreu/rpc/server/ServiceManagerTest.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Server/src/main/java/pers/bleibtreu/rpc/server/ServiceInvoker.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Server/src/main/java/pers/bleibtreu/rpc/server/RPCServer.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Server/src/main/java/pers/bleibtreu/rpc/server/RpcServerConfig.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Server/src/main/java/pers/bleibtreu/rpc/server/RpcServer.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Client/pom.xml" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Client/src/main/java/pers/bleibtreu/rpc/client/TransportSelector.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Client/src/main/java/pers/bleibtreu/rpc/client/RpcClientConfig.java" />
+        <option value="$PROJECT_DIR$/RPC_Pratice_example/pom.xml" />
+        <option value="$PROJECT_DIR$/RPC_Pratice_example/src/main/java/pers/bleibtreu/rpc/example/CalcService.java" />
+        <option value="$PROJECT_DIR$/RPC_Pratice_example/src/main/java/pers/bleibtreu/rpc/example/CalcServiceImpl.java" />
+        <option value="$PROJECT_DIR$/RPC_Pratice_example/src/main/java/pers/bleibtreu/rpc/example/Server.java" />
+        <option value="$PROJECT_DIR$/RPC_Pratice_example/src/main/resources/logback.fxml" />
+        <option value="$PROJECT_DIR$/RPC_Pratice_example/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/RPC_Pratice_example/src/main/java/pers/bleibtreu/rpc/example/Client.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Client/src/main/java/pers/bleibtreu/rpc/client/RemoteInvoker.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_example/src/main/java/pers/bleibtreu/rpc/example/Client.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Proto/src/main/java/pers/bleibtreu/rpc/Request.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Client/src/main/java/pers/bleibtreu/rpc/client/RandomTransportSelector.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_example/src/main/java/pers/bleibtreu/rpc/example/Server.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Proto/src/main/java/pers/bleibtreu/rpc/ServiceDescriptor.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Transport/src/main/java/pers/bleibtreu/rpc/HTTPTransportServer.java" />
+        <option value="$PROJECT_DIR$/RPC_Practice_Client/src/main/java/pers/bleibtreu/rpc/client/RpcClient.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+              <item name="bleibtreu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+              <item name="bleibtreu" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+              <item name="bleibtreu" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Codec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Codec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Codec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Codec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Codec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Codec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+              <item name="bleibtreu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Codec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+              <item name="bleibtreu" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Codec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+              <item name="bleibtreu" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc" type="462c0819:PsiDirectoryNode" />
+              <item name="codec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+              <item name="bleibtreu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+              <item name="bleibtreu" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+              <item name="bleibtreu" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+              <item name="bleibtreu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+              <item name="bleibtreu" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+              <item name="bleibtreu" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Proto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Proto" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Proto" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+              <item name="bleibtreu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+              <item name="bleibtreu" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+              <item name="bleibtreu" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Transport" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Transport" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Transport" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Transport" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Transport" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Transport" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+              <item name="bleibtreu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="RPC_Practice_Transport" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pers" type="462c0819:PsiDirectoryNode" />
+              <item name="bleibtreu" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/rpc0-demo-master/rpc0-demo-master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.41954023" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pers.bleibtreu.rpc.server" />
+      <recent name="pers.bleibtreu.rpc.codec" />
+      <recent name="pers.bleibtreu.rpc.common" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pers.bleibtreu.rpc.client" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pers.bleibtreu.rpc.example.Client" />
+      <module name="RPC_Practice_example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pers.bleibtreu.rpc.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pers.bleibtreu.rpc.example.Server" />
+      <module name="RPC_Practice_example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pers.bleibtreu.rpc.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JSONDecoderTest.decode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RPC_Practice_Codec" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pers.bleibtreu.rpc.codec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pers.bleibtreu.rpc.codec" />
+      <option name="MAIN_CLASS_NAME" value="pers.bleibtreu.rpc.codec.JSONDecoderTest" />
+      <option name="METHOD_NAME" value="decode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceManagerTest.lookup" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RPC_Practice_Server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pers.bleibtreu.rpc.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pers.bleibtreu.rpc.server" />
+      <option name="MAIN_CLASS_NAME" value="pers.bleibtreu.rpc.server.ServiceManagerTest" />
+      <option name="METHOD_NAME" value="lookup" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceManagerTest.register" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RPC_Practice_Server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pers.bleibtreu.rpc.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pers.bleibtreu.rpc.server" />
+      <option name="MAIN_CLASS_NAME" value="pers.bleibtreu.rpc.server.ServiceManagerTest" />
+      <option name="METHOD_NAME" value="register" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="RPC_Practice_example" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="RPC_Practice_example" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="JUnit.ServiceManagerTest.lookup" />
+        <item itemvalue="JUnit.ServiceManagerTest.register" />
+        <item itemvalue="JUnit.JSONDecoderTest.decode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02e6011e-0732-41a0-8152-714c940639a1" name="Default Changelist" comment="" />
+      <created>1584330074034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584330074034</updated>
+      <workItem from="1584330078760" duration="5854000" />
+      <workItem from="1584429286599" duration="2760000" />
+      <workItem from="1584495427725" duration="1361000" />
+      <workItem from="1584522621605" duration="2991000" />
+      <workItem from="1584581030649" duration="1754000" />
+      <workItem from="1584675106685" duration="18665000" />
+      <workItem from="1584930814217" duration="14215000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ReflectionUtilsTest_newInstance - 2020.03.18 at 17h 24m 38s.xml">
+      <configuration name="ReflectionUtilsTest.newInstance" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReflectionUtilsTest_getPublicMethod - 2020.03.18 at 17h 26m 00s.xml">
+      <configuration name="ReflectionUtilsTest.getPublicMethod" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReflectionUtilsTest_getPublicMethod - 2020.03.18 at 17h 26m 31s.xml">
+      <configuration name="ReflectionUtilsTest.getPublicMethod" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReflectionUtilsTest_invoke - 2020.03.18 at 17h 30m 56s.xml">
+      <configuration name="ReflectionUtilsTest.invoke" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JSONEncoderTest_encode - 2020.03.18 at 17h 59m 08s.xml">
+      <configuration name="JSONEncoderTest.encode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JSONDecoderTest_decode - 2020.03.20 at 13h 15m 57s.xml">
+      <configuration name="JSONDecoderTest.decode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ServiceManagerTest_register - 2020.03.20 at 15h 26m 20s.xml">
+      <configuration name="ServiceManagerTest.register" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ServiceManagerTest_register - 2020.03.20 at 15h 39m 27s.xml">
+      <configuration name="ServiceManagerTest.register" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ServiceManagerTest_lookup - 2020.03.20 at 15h 39m 31s.xml">
+      <configuration name="ServiceManagerTest.lookup" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ServiceManagerTest_lookup - 2020.03.20 at 15h 41m 09s.xml">
+      <configuration name="ServiceManagerTest.lookup" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="47600000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16204691" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3954496" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RPC_Practice_Client/src/main/java/pers/bleibtreu/rpc/client/RpcClient.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Common/src/main/java/pers/bleibtreu/rpc/common.java" />
+    <entry file="jar://$PROJECT_DIR$/../../jdk_1.8/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Common/src/test/java/pers/bleibtreu/rpc/common/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Common/src/test/java/pers/bleibtreu/rpc/common/ReflectionUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="28" column="38" lean-forward="true" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Codec/src/test/java/pers/bleibtreu/rpc/codec/TestBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Codec/src/test/java/pers/bleibtreu/rpc/codec/JSONEncoderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Codec/src/test/java/pers/bleibtreu/rpc/codec/JSONDecoderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Codec/src/main/java/pers/bleibtreu/rpc/codec/Decoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Codec/src/main/java/pers/bleibtreu/rpc/codec/JSONDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Transport/src/main/java/pers/bleibtreu/rpc/RequestHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Transport/src/main/java/pers/bleibtreu/rpc/TransportServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Server/src/main/java/pers/bleibtreu/rpc/server/ServiceInstance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Server/src/test/java/pers/bleibtreu/rpc/server/TestInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Server/src/test/java/pers/bleibtreu/rpc/server/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Server/src/main/java/pers/bleibtreu/rpc/server/ServiceInvoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Server/src/main/java/pers/bleibtreu/rpc/server/RpcServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Server/src/test/java/pers/bleibtreu/rpc/server/ServiceManagerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Server/src/main/java/pers/bleibtreu/rpc/server/ServiceManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../jdk_1.8/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="1250" column="22" selection-start-line="1250" selection-start-column="22" selection-end-line="1250" selection-end-column="22" />
+          <folding>
+            <element signature="e#49043#49044#0" expanded="true" />
+            <element signature="e#49082#49083#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Codec/src/main/java/pers/bleibtreu/rpc/codec/Encoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Codec/src/main/java/pers/bleibtreu/rpc/codec/JSONEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Pratice_example/src/main/resources/logback.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_example/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Codec/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Proto/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="923">
+          <caret line="36" column="34" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_example/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Transport/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Client/src/main/java/pers/bleibtreu/rpc/client/RemoteInvoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1737">
+          <caret line="68" column="13" lean-forward="true" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Proto/src/main/java/pers/bleibtreu/rpc/Peer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../jdk_1.8/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="392" column="13" selection-start-line="392" selection-start-column="13" selection-end-line="392" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_example/src/main/java/pers/bleibtreu/rpc/example/CalcServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_example/src/main/java/pers/bleibtreu/rpc/example/CalcService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_example/src/main/java/pers/bleibtreu/rpc/example/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Proto/src/main/java/pers/bleibtreu/rpc/ServiceDescriptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1086#1087#0" expanded="true" />
+            <element signature="e#1130#1131#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Proto/src/main/java/pers/bleibtreu/rpc/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Proto/src/main/java/pers/bleibtreu/rpc/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Server/src/main/java/pers/bleibtreu/rpc/server/RpcServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-229">
+          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1460#1461#0" expanded="true" />
+            <element signature="e#1492#1493#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.2.28.v20190418/jetty-server-9.2.28.v20190418.jar!/org/eclipse/jetty/server/Server.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="65" column="11" selection-start-line="65" selection-start-column="11" selection-end-line="65" selection-end-column="11" />
+          <folding>
+            <element signature="e#2545#2546#0" expanded="true" />
+            <element signature="e#2583#2584#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Transport/src/main/java/pers/bleibtreu/rpc/HTTPTransportServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="40" selection-start-line="40" selection-end-line="57" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Transport/src/main/java/pers/bleibtreu/rpc/HTTPTransportClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Transport/src/main/java/pers/bleibtreu/rpc/TransportClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Client/src/main/java/pers/bleibtreu/rpc/client/TransportSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_example/src/main/java/pers/bleibtreu/rpc/example/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Client/src/main/java/pers/bleibtreu/rpc/client/RandomTransportSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#1285#1286#0" expanded="true" />
+            <element signature="e#1320#1321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Common/src/main/java/pers/bleibtreu/rpc/common/ReflectionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Client/src/main/java/pers/bleibtreu/rpc/client/RpcClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="27" column="72" lean-forward="true" selection-start-line="27" selection-start-column="72" selection-end-line="27" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPC_Practice_Client/src/main/java/pers/bleibtreu/rpc/client/RpcClientConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="681">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>RPC_Practice_Server</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.41954023" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.41954023" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
