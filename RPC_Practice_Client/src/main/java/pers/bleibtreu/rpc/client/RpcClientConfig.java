@@ -17,6 +17,11 @@ import java.util.List;
  */
 @Data
 public class RpcClientConfig {
+
+    public RpcClientConfig() {
+
+    }
+
     private Class<? extends TransportClient> transportClass = HTTPTransportClient.class;
     private Class<? extends Encoder> encoderClass = JSONEncoder.class;
     private Class<? extends Decoder> DecoderClass = JSONDecoder.class;

@@ -1,5 +1,6 @@
 package pers.bleibtreu.rpc.client;
 
+import lombok.extern.slf4j.Slf4j;
 import pers.bleibtreu.rpc.Peer;
 import pers.bleibtreu.rpc.TransportClient;
 

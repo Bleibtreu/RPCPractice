@@ -18,7 +18,7 @@ public class RandomTransportSelector implements TransportSelector {
     // 已经连接好的client
     private List<TransportClient> clients;
 
-    public RandomTransportSelector(List<TransportClient> clients) {
+    public RandomTransportSelector() {
         this.clients = new ArrayList<>();
     }
 
@@ -39,7 +39,7 @@ public class RandomTransportSelector implements TransportSelector {
     @Override
     public synchronized TransportClient select() {
         int i = new Random().nextInt(clients.size());
-        return clients.remove(i);
+        return clients.get(i);
     }
 
     @Override
