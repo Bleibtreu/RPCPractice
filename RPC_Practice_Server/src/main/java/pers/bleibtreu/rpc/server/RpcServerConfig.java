@@ -9,7 +9,7 @@ import pers.bleibtreu.rpc.codec.JSONDecoder;
 import pers.bleibtreu.rpc.codec.JSONEncoder;
 
 /**
- * server配置
+ * <div>server配置</div>
  * Created by Bleibtreu on 2020/3/20 14:33
  */
 @Data

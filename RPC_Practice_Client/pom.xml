@@ -24,7 +24,7 @@
         </dependency>
         <dependency>
             <groupId>Person</groupId>
-            <artifactId>RPC_Prectice_Common</artifactId>
+            <artifactId>RPC_Practice_Common</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>

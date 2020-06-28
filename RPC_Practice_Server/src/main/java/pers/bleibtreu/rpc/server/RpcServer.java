@@ -46,7 +46,7 @@ public class RpcServer {
         serviceManager.register(interfaceClass, bean);
     }
 
-    public  void start() {
+    public void start() {
         this.net.start();
     }
 
