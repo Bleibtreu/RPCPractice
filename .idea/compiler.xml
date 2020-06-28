@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="RPC_Practice_Common" />
+        <module name="RPC_Pratice_example" />
         <module name="RPC_Practice_Transport" />
         <module name="RPC_Practice_Server" />
         <module name="RPC_Practice_Client" />
