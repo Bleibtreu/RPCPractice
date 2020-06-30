@@ -23,7 +23,8 @@ public class RandomTransportSelector implements TransportSelector {
     }
 
     @Override
-    public synchronized void init(List<Peer> peers, int count, Class<? extends TransportClient> clazz) {
+    public synchronized void init(
+            List<Peer> peers, int count, Class<? extends TransportClient> clazz) {
         count = Math.max(count, 1);
 
         for (Peer peer : peers) {

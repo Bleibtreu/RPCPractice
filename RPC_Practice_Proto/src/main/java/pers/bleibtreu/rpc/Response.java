@@ -3,7 +3,7 @@ package pers.bleibtreu.rpc;
 import lombok.Data;
 
 /**
- * 表示RPC的返回
+ * <div>表示RPC的返回</div>
  * Created by Bleibtreu on 2020/3/16 14:34
  */
 @Data
